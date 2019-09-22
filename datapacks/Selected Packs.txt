@@ -1,0 +1,24 @@
+Vanilla Tweaks Crafting Tweaks
+Version: 1.14
+Packs:
+	craftable name tags v1.0.0
+	craftable notch apples v1.0.0
+	wool to string v1.0.0
+	universal dyeing v1.2.0
+	uncraftable nether wart block v1.0.0
+	uncraftable ice v1.0.0
+	sandstone dyeing v1.0.0
+	rotten flesh to leather v1.0.0
+	renewable coral blocks 3x3 v1.0.0
+	renewable coral blocks 2x2 v1.0.0
+	more stairs crafting v1.2.1
+	more bricks crafting v1.0.0
+	equestrian crafting v1.0.0
+	dropper to dispenser v1.1.1
+	double slab crafting v1.0.4
+	craftable gravel v1.0.0
+	coal to ink sacs v1.0.0
+	black dye with charcoal v1.0.2
+	back to blocks v1.1.0
+	4 bark blocks v1.0.0
+	12 trapdoors v1.0.0
