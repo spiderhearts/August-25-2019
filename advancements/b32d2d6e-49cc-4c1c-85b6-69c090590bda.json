@@ -191,6 +191,15 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2019-09-24 14:43:28 -0400",
+      "diamond_helmet": "2019-09-24 14:43:28 -0400",
+      "diamond_chestplate": "2019-09-24 14:43:28 -0400",
+      "diamond_boots": "2019-09-24 14:43:28 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/magenta_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-08-25 21:49:23 -0400"
