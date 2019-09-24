@@ -500,7 +500,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-22 23:09:29 -0400"
+      "tick": "2019-09-24 10:53:16 -0400"
     },
     "done": false
   },
@@ -853,6 +853,12 @@
   "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
     "criteria": {
       "has_glass_pane": "2019-08-25 21:50:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
+    "criteria": {
+      "has_cod": "2019-09-24 11:11:26 -0400"
     },
     "done": true
   },
@@ -1452,6 +1458,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2019-09-24 11:03:58 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2019-09-16 19:57:45 -0400"
@@ -1479,6 +1491,12 @@
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-09-08 18:32:30 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod_from_smoking": {
+    "criteria": {
+      "has_cod": "2019-09-24 11:11:26 -0400"
     },
     "done": true
   },
@@ -1906,6 +1924,12 @@
   "main:main/ch": {
     "criteria": {
       "tick": "2019-09-22 16:26:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_cod": {
+    "criteria": {
+      "has_cod": "2019-09-24 11:11:26 -0400"
     },
     "done": true
   },
