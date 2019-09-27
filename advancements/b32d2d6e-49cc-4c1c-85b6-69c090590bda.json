@@ -29,6 +29,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab": {
+    "criteria": {
+      "has_polished_andesite": "2019-09-26 20:40:40 -0400"
+    },
+    "done": true
+  },
   "main:main/dragon_drops_elytra": {
     "criteria": {
       "tick": "2019-09-22 16:26:40 -0400"
@@ -158,6 +164,12 @@
   "minecraft:recipes/building_blocks/polished_granite_stairs": {
     "criteria": {
       "has_the_recipe": "2019-09-08 16:44:45 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_granite": {
+    "criteria": {
+      "has_slab": "2019-09-26 23:48:04 -0400"
     },
     "done": true
   },
@@ -370,9 +382,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/bed": {
     "criteria": {
-      "has_dye": "2019-09-22 17:25:24 -0400"
+      "has_dye": "2019-09-22 17:25:24 -0400",
+      "has_block": "2019-09-26 19:48:58 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/brewing/golden_carrot": {
     "criteria": {
@@ -515,7 +528,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-26 11:40:30 -0400"
+      "tick": "2019-09-26 23:39:06 -0400"
     },
     "done": false
   },
@@ -816,6 +829,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/polished_granite": {
+    "criteria": {
+      "has_stairs": "2019-09-26 23:48:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dark_oak_fence_gate": {
     "criteria": {
       "has_planks": "2019-08-25 17:24:56 -0400"
@@ -896,6 +915,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/polished_diorite": {
+    "criteria": {
+      "has_stairs": "2019-09-26 23:48:04 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_gold_block": {
     "criteria": {
       "has_gold_block": "2019-09-05 00:30:12 -0400"
@@ -962,6 +987,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/slabs/polished_diorite_slab": {
+    "criteria": {
+      "has_slab": "2019-09-26 22:51:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2019-08-25 19:36:57 -0400"
@@ -1013,6 +1044,12 @@
   "slabs_stairs_to_block:recipes/building_blocks/stairs/cobblestone": {
     "criteria": {
       "has_stairs": "2019-09-22 18:24:08 -0400"
+    },
+    "done": true
+  },
+  "dropper_to_dispenser:recipes/building_blocks/dropper_to_dispenser/dispenser": {
+    "criteria": {
+      "has_bow": "2019-09-26 23:56:32 -0400"
     },
     "done": true
   },
@@ -1157,6 +1194,12 @@
   "minecraft:recipes/combat/iron_boots": {
     "criteria": {
       "has_iron_ingot": "2019-08-25 19:09:46 -0400"
+    },
+    "done": true
+  },
+  "wool_to_string:recipes/building_blocks/wool_to_string/string": {
+    "criteria": {
+      "has_block": "2019-09-26 19:47:24 -0400"
     },
     "done": true
   },
@@ -1468,6 +1511,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/polished_diorite": {
+    "criteria": {
+      "has_slab": "2019-09-26 22:51:49 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
     "criteria": {
       "has_cobblestone": "2019-08-25 18:48:32 -0400"
@@ -1489,6 +1538,12 @@
   "minecraft:recipes/misc/black_dye": {
     "criteria": {
       "has_ink_sac": "2019-09-26 11:55:02 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2019-09-26 20:40:40 -0400"
     },
     "done": true
   },
@@ -1552,9 +1607,21 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/stairs/diorite": {
+    "criteria": {
+      "has_stairs": "2019-09-26 23:48:14 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/tnt_minecart": {
     "criteria": {
       "has_minecart": "2019-09-08 18:32:30 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/cobblestone": {
+    "criteria": {
+      "has_slab": "2019-09-26 22:51:00 -0400"
     },
     "done": true
   },
@@ -1730,6 +1797,12 @@
   "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2019-08-25 22:57:52 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs": {
+    "criteria": {
+      "has_polished_andesite": "2019-09-26 20:40:40 -0400"
     },
     "done": true
   },
@@ -1922,9 +1995,10 @@
   },
   "universal_dyeing:recipes/building_blocks/universal_dyeing/wool": {
     "criteria": {
-      "has_dye": "2019-09-22 17:25:24 -0400"
+      "has_dye": "2019-09-22 17:25:24 -0400",
+      "has_block": "2019-09-26 19:47:24 -0400"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
@@ -2030,6 +2104,12 @@
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_bricks_stonecutting": {
     "criteria": {
       "has_stone_bricks": "2019-08-26 15:29:51 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/polished_granite_slab": {
+    "criteria": {
+      "has_block": "2019-09-26 20:40:40 -0400"
     },
     "done": true
   },
@@ -2642,6 +2722,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/slabs/polished_andesite_slab": {
+    "criteria": {
+      "has_block": "2019-09-26 20:40:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_axe": {
     "criteria": {
       "has_stick": "2019-08-25 15:52:05 -0400"
@@ -2663,6 +2749,12 @@
   "main:main/silence_mobs": {
     "criteria": {
       "tick": "2019-09-22 16:26:40 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/andesite": {
+    "criteria": {
+      "has_slab": "2019-09-26 23:48:04 -0400"
     },
     "done": true
   },
@@ -2705,6 +2797,12 @@
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {
       "has_diamond": "2019-08-26 17:29:56 -0400"
+    },
+    "done": true
+  },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/stone_bricks": {
+    "criteria": {
+      "has_slab": "2019-09-26 23:48:40 -0400"
     },
     "done": true
   },
@@ -2849,6 +2947,12 @@
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2019-08-25 22:55:40 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_polished_andesite_stonecutting": {
+    "criteria": {
+      "has_polished_andesite": "2019-09-26 20:40:40 -0400"
     },
     "done": true
   },
@@ -3050,6 +3154,12 @@
     },
     "done": true
   },
+  "slabs_stairs_to_block:recipes/building_blocks/slabs/diorite": {
+    "criteria": {
+      "has_slab": "2019-09-26 23:48:40 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2019-08-25 19:51:20 -0400"
@@ -3215,6 +3325,12 @@
   "minecraft:recipes/decorations/light_blue_bed": {
     "criteria": {
       "has_light_blue_wool": "2019-09-18 17:03:58 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/slabs/stone_brick_slab": {
+    "criteria": {
+      "has_slab": "2019-09-26 23:48:40 -0400"
     },
     "done": true
   },
