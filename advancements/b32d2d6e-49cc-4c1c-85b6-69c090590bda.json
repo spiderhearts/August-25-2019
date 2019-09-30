@@ -534,7 +534,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-29 19:51:43 -0400"
+      "tick": "2019-09-30 09:25:12 -0400"
     },
     "done": false
   },
@@ -1472,12 +1472,6 @@
   "minecraft:recipes/decorations/smithing_table": {
     "criteria": {
       "has_iron_ingot": "2019-08-25 19:09:46 -0400"
-    },
-    "done": true
-  },
-  "main:main/player_graves": {
-    "criteria": {
-      "tick": "2019-09-22 16:26:40 -0400"
     },
     "done": true
   },
