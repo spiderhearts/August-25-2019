@@ -441,6 +441,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/summon_iron_golem": {
+    "criteria": {
+      "summoned_golem": "2019-10-01 10:45:46 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_sand": "2019-08-25 21:39:53 -0400"
@@ -534,7 +540,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-09-30 09:25:12 -0400"
+      "tick": "2019-10-01 11:11:45 -0400"
     },
     "done": false
   },
@@ -748,10 +754,13 @@
       "minecraft:pillager": "2019-09-18 13:52:22 -0400",
       "minecraft:skeleton": "2019-09-08 22:38:58 -0400",
       "minecraft:spider": "2019-08-25 22:34:32 -0400",
+      "minecraft:creeper": "2019-10-01 10:10:54 -0400",
       "minecraft:phantom": "2019-08-25 17:22:52 -0400",
       "minecraft:witch": "2019-09-25 19:40:31 -0400",
+      "minecraft:cave_spider": "2019-10-01 10:18:00 -0400",
       "minecraft:enderman": "2019-09-18 13:58:41 -0400",
       "minecraft:zombie": "2019-08-25 18:16:12 -0400",
+      "minecraft:drowned": "2019-10-01 11:51:37 -0400",
       "minecraft:zombie_villager": "2019-09-18 17:22:35 -0400"
     },
     "done": false
