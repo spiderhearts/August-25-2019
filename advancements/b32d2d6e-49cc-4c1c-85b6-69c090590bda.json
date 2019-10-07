@@ -540,7 +540,7 @@
   },
   "multiplayer_sleep:sleep": {
     "criteria": {
-      "tick": "2019-10-01 11:11:45 -0400"
+      "tick": "2019-10-04 21:27:27 -0400"
     },
     "done": false
   },
@@ -713,6 +713,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_bed": {
+    "criteria": {
+      "has_black_wool": "2019-10-04 21:57:47 -0400"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/gray_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2019-08-25 19:59:40 -0400"
@@ -759,6 +765,7 @@
       "minecraft:witch": "2019-09-25 19:40:31 -0400",
       "minecraft:cave_spider": "2019-10-01 10:18:00 -0400",
       "minecraft:enderman": "2019-09-18 13:58:41 -0400",
+      "minecraft:silverfish": "2019-10-03 22:04:26 -0400",
       "minecraft:zombie": "2019-08-25 18:16:12 -0400",
       "minecraft:drowned": "2019-10-01 11:51:37 -0400",
       "minecraft:zombie_villager": "2019-09-18 17:22:35 -0400"
@@ -1191,6 +1198,12 @@
   "minecraft:recipes/building_blocks/glowstone": {
     "criteria": {
       "has_glowstone_dust": "2019-09-25 19:40:31 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_banner": {
+    "criteria": {
+      "has_black_wool": "2019-10-04 21:57:47 -0400"
     },
     "done": true
   },
@@ -2878,6 +2891,12 @@
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_flint": "2019-08-26 16:42:12 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_carpet": {
+    "criteria": {
+      "has_black_wool": "2019-10-04 21:57:47 -0400"
     },
     "done": true
   },
